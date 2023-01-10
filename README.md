@@ -19,6 +19,7 @@ This repository contains notes and files to help you build your devops environne
       And by clicking on "All supported platforms" , as shown above, the download will be initiated.
   3. Run the command:
   > sudo VBoxManage extpack install Oracle_VM_VirtualBox_Extension_Pack-7.0.4.vbox-extpack
-  4. To open virtualBox, tun the command: > VirtualBox 
+  4. To open virtualBox, tun the command: 
+       > VirtualBox 
 
 
