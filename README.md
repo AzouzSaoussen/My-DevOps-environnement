@@ -22,4 +22,18 @@ This repository contains notes and files to help you build your devops environne
   4. To open virtualBox, tun the command: 
         > VirtualBox 
 
+### Installation of Vagrant on centos 7
+Go to https://developer.hashicorp.com/vagrant/downloads 
+Choose the Centos/RHEL option and follow all the steps of the installation.
+
+### Updating the current CentOS 7 installation 
+1. Run this command: sudo yum update
+2.  Install vboxdrv Kernel Module by entering: 
+     > sudo yum install –y patch gcc kernel-headers kernel-devel make perl wget
+          
+     
+
+
+
+
 
