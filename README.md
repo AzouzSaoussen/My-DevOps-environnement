@@ -4,9 +4,9 @@ This repository contains notes and files to help you build your devops environne
 ### Installation of VirtualBox on centos 7 
 
 #### Step 1: Download VirtualBox Repository
-	1. https://www.virtualbox.org/wiki/Linux_Downloads By clicking on the third option Oracle Linux 7 / Red Hat Enterprise Linux 7 / CentOS 7 ,
+  1. https://www.virtualbox.org/wiki/Linux_Downloads By clicking on the third option Oracle Linux 7 / Red Hat Enterprise Linux 7 / CentOS 7 ,
 	   the download will be initiated right away.
-        2. Or run this command:
+  2. Or run this command:
       > sudo wget http://download.virtualbox.org/virtualbox/rpm/el/virtualbox.repo -P /etc/yum.repos.d
       
       
